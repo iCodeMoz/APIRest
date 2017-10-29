@@ -10,5 +10,4 @@ API Rest, para fornecer toda informaçao relevante de Moçambique
 * Para utilizadores clientes da API  deve se gerar um Token, ou codigo para validacao.
 * Garantir a segurança minima de dados
 * Garantir-se que nao se mostra nenhum erro ao utilizador
-
-###  No ficheiro README.md já se pode começar com a documentacao
+* 
