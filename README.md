@@ -17,15 +17,24 @@ Os seguintes dados:
 
 ### 3. Quem pode fazer uso desses dados?
 
-Todos desenvolvedores que possuem a chave de acesso, gerado ao se criar a conta do utilizador.
-Os dados são fornecidos como API, ou seja, qualquer outra aplicação, pode fazer uso das rotas disponiveis para a sua chave e buscar os dados que ele deseja, ex.: a lista de todas as cidades de Moçambique ou a lista de todos bairros da Provincia de Gaza.
+Qualquer um, ou qualquer aplicação pode fazer uso dos dados da API, desde que tenha a chave de desenvolvedor gerado ao se criar a conta do utilizador.
+
+Por questoes de segurança, as chaves dos desenvolvedores dao acesso a uma parte da API por default, mas pode extender o acesso para as outras partes de desejar e é necessario registar a aplicação que está consumindo os dados da API.
+
+Visto  que os  dados são fornecidos como API, qualquer outra aplicação pode fazer uso das rotas disponiveis para a sua chave e buscar os dados que ele deseja, ex.: a lista de todas as cidades de Moçambique ou a lista de todos bairros da Provincia de Gaza.
 
 Todas aplicações só podem acessar(buscar) os dados usando os metodos `GET` ou `POST`, mas nenhuma aplicacao tem permissao para fazer insert.
 
 
-* Todos Desenvolvedores
-
 ### 4. Como esses dados sao registados e actualizados?
+
+Os dados são registados no site da API por qualquer desenvolvedor ou entidade competente, mas posteriormente os mesmos devem ser confirmados por entidades competentes. Essa medida, visa evitar inconsistencia de dados.
+
+Todos os dados na API, possuem um estado (`confirmado` e `não confirmado`), Os confirmados sao os que ja foram confirmados pelas entidades competentes.
+
+As entidades competentes e as pessoas indicadas farão a verifição de se os dados cadastrados são verdadeiros e não duplicados e de seguida poderão marcar esses dados como confirmados.
+
+A actualização de um certo dado é feita pela entidade competente ou pelo desenvolvedor que o cadastrou. Os outros desenvolvedores não possuem nenhuma permissão de modificacão dos dados por outros cadastrados.
 
 
 ### 5. Como personalizar os dados a minha necessidade?
