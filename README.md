@@ -18,7 +18,11 @@ Outra vantagem: A RestAPI vai disponibilizar o `esquema de base de dados` para t
 
 Suponhamos a sua chave so te permite ter acesso ás divisoes adminisrativas, então terá acesso ao `esquema` ou `modelo da base de dados` dessa parte de API. Assim não precisa levar tempo a modelar de zero as divisões administrativas teras um bom ponto de partida. O que acha dessa ideia?
 
-Note isso, existem dados que 70% das aplicaçoes Moçambique tem em comum, que tal reaproveitar esses dados? ou prefere começar de zero?
+Note isso, existem dados que 70% das aplicaçoes em Moçambique tem em comum, que tal reaproveitar esses dados? ou prefere começar de zero? o que achas de cadastrares os seus para que os outros tenham acesso?
+
+Todos os dados na API são para o uso geral, por isso não grave nenhum dado privado lá.
+
+Para saber o que é a API e quais dados podem ser registados, veja os pontos 1 e 2 asseguir.
 
 ### 1. O que é a APIRest?
 
@@ -26,7 +30,7 @@ A [APIRest é uma API Rest e não restFul](https://pt.stackoverflow.com/question
 
 Esses dados incluem toda a divisão Administrativa de Moçambique, Todas Instituições de Formação e Permite o armazenamento de diversos tipos de fotos.
 
-### 2. O que a MozAPIRest disponibiliza?
+### 2. O que a APIRest disponibiliza?
 
 Os seguintes dados: 
 
@@ -56,8 +60,6 @@ As entidades competentes e as pessoas indicadas farão a verifição de se os da
 
 A actualização de um certo dado é feita pela entidade competente ou pelo desenvolvedor que o cadastrou. Os outros desenvolvedores não possuem nenhuma permissão de modificacão dos dados por outros cadastrados.
 
-
-### 5. Como personalizar os dados a minha necessidade?
 
 ## Dados a serem registados e disponibilizados na/pela API
 
