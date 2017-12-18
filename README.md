@@ -11,7 +11,12 @@ API Rest, para fornecer toda informaçao relevante de Moçambique
 
 Dados ou funcionalidades a serem implementadas:
 
-*  
+* Registo de Universidades
+* Registo de Escolas
+* Registo de Institutos
+* Registo de Escolinhas
+* Registo de Centros de formação profissional
+* Registo de Outros Centros
 
 ### A API a ser desenvolvida deve ter as seguintes funcionalidades:
 * Registar os dados das divisoes administrativas de Moçambique
