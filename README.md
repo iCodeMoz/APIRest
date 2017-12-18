@@ -1,6 +1,18 @@
 # APIRest
 API Rest, para fornecer toda informaçao relevante de Moçambique
 
+### Dados a serem registados e disponibilizados na/pela API
+
+* Divisão Administrativa de Moçambique
+* Instituições de Formação
+* Serviço de Armazenamento de Fotos.
+
+#### Divisão Administrativa de Moçambique
+
+Dados ou funcionalidades a serem implementadas:
+
+*  
+
 ### A API a ser desenvolvida deve ter as seguintes funcionalidades:
 * Registar os dados das divisoes administrativas de Moçambique
 * Registar os dados das instituicoes de formaçao de Moçambique
