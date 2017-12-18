@@ -24,7 +24,7 @@ Note isso, existem dados que 70% das aplicaçoes em Moçambique tem em comum, qu
 
 Todos os dados na API são para o uso geral, por isso não grave nenhum dado privado lá.
 
-Para saber o que é a API e quais dados podem ser registados, veja os pontos 1 e 2 asseguir.
+Para saber o que é a APIRest e quais dados podem ser registados, veja os pontos 1 e 2 asseguir.
 
 ### 1. O que é a APIRest?
 
