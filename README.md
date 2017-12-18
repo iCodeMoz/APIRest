@@ -3,7 +3,20 @@ API Rest, para fornecer toda informaçao relevante de Moçambique
 
 ### Introdução
 
-Todo o Programador, preci
+Todo o Programador precisa de dados durante o desenvolvimento até a fase de implementacao da sua aplicação, dependendo da aplicação pode precisar de alguns ou de muitos dados. 
+
+Para aplicação Web, sabiam que Laravel tem [Faker e Seeders](https://blog.schoolofnet.com/2015/04/trabalhando-com-seeds-e-faker-no-laravel-5/)?? mas esses nem sempre suprem a nossa necessidade.
+
+Que tal ter uma API Online, onde eu irei cadastrar dados reais de Moçambique, como as provincias, cidades, Bairros,...
+Assim poderei testar a aplicação que estou a desenvolver com dados verdadeiros. Mas a boa coisa aí é: `1. não preciso cadastrar se os dados já estão lá` só preciso fazer uso, e `2. não preciso estar formatar a minha base de dados sempre com seeders 'usando dados falsos'` pois a API já possui dados reais que posso usar para teste e entregar a minha aplicação assim mesmo.
+
+Dessa forma teremos os nossos dados centralizados, e seremos muito produtivos ao desenvolver qualquer app, pois nao iremos levar tempo a desenhar e cadastrar os dados de Teste, pois a API já nos fornece tudo isso.
+
+Outra vantagem: A RestAPI vai disponibilizar o `esquema de base de dados` para todos os devs.
+
+##### Como isso será feito?
+
+Suponhamos a sua chave só te permite ter acesso ás divisoes adminisrativas, então terá acesso ao esquema ou modelo da base de dados dessa parte de API. Assim não precisa levar tempo a modelar de zero as divisões administrativas teras um bom ponto de partida. O que acha dessa ideia?
 
 ### 1. O que é a APIRest?
 
