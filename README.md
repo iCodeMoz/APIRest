@@ -12,11 +12,13 @@ Assim poderei testar a aplicação que estou a desenvolver com dados verdadeiros
 
 Dessa forma teremos os nossos dados centralizados, e seremos muito produtivos ao desenvolver qualquer app, pois nao iremos levar tempo a desenhar e cadastrar os dados de Teste, pois a API já nos fornece tudo isso.
 
-Outra vantagem: A RestAPI vai disponibilizar o `esquema de base de dados` para todos os devs.
+Outra vantagem: A RestAPI vai disponibilizar o `esquema de base de dados` para todos os desenvolvedores.
 
 ##### Como isso será feito?
 
-Suponhamos a sua chave só te permite ter acesso ás divisoes adminisrativas, então terá acesso ao esquema ou modelo da base de dados dessa parte de API. Assim não precisa levar tempo a modelar de zero as divisões administrativas teras um bom ponto de partida. O que acha dessa ideia?
+Suponhamos a sua chave so te permite ter acesso ás divisoes adminisrativas, então terá acesso ao `esquema` ou `modelo da base de dados` dessa parte de API. Assim não precisa levar tempo a modelar de zero as divisões administrativas teras um bom ponto de partida. O que acha dessa ideia?
+
+Note isso, existem dados que 70% das aplicaçoes Moçambique tem em comum, que tal reaproveitar esses dados? ou prefere começar de zero?
 
 ### 1. O que é a APIRest?
 
