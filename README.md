@@ -3,9 +3,9 @@ API Rest, para fornecer toda informaçao relevante de Moçambique
 
 ### Introdução
 
-Todo o Programador precisa de dados durante o desenvolvimento até a fase de implementacao da sua aplicação, dependendo da aplicação pode precisar de alguns ou de muitos dados. 
+Todo o Programador que desenvolve e entrega uma aplicação  com dados verdadeiros, certos e concisos é considerado  sério, e ganha confiança dos clientes. 
 
-Para aplicação Web, sabiam que Laravel tem [Faker e Seeders](https://blog.schoolofnet.com/2015/04/trabalhando-com-seeds-e-faker-no-laravel-5/)?? mas esses nem sempre suprem a nossa necessidade.
+Para aplicação Web, sabiam que Laravel tem [Faker e Seeders](https://blog.schoolofnet.com/2015/04/trabalhando-com-seeds-e-faker-no-laravel-5/)?? mas esses são usados durante o desenvolvimento são para testes, nunca entregue uma aplicação ao cliente com esse tipo de dados.
 
 Que tal ter uma API Online, onde eu irei cadastrar dados reais de Moçambique, como as provincias, cidades, Bairros,...
 Assim poderei testar a aplicação que estou a desenvolver com dados verdadeiros. Mas a boa coisa aí é: `1. não preciso cadastrar os dados já estão lá` só preciso fazer uso, e `2. não preciso estar a formatar a minha base de dados sempre com seeders 'usando dados falsos'` pois a API já possui dados reais que posso usar para teste e entregar a minha aplicação assim mesmo.
