@@ -11,6 +11,17 @@ API Rest, para fornecer toda informaçao relevante de Moçambique
 
 Dados ou funcionalidades a serem implementadas:
 
+* Registo de Provincias
+* Registo de Cidades
+* Registo de Distritos
+* Registo de Postos Administrativos
+* Registo de Distritos Urbanos
+* Registo de Bairros
+
+#### Instituições de Formação
+
+Dados ou funcionalidades a serem implementadas:
+
 * Registo de Universidades
 * Registo de Escolas
 * Registo de Institutos
